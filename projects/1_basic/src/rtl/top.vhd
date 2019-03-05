@@ -26,7 +26,7 @@ END top;
 
 ARCHITECTURE rtl OF top IS
 
--- instanciranje svih komponenti koje se nalaze u sistemu
+-- instanciranje svih komponenti koje se nalaze u sistemuu
 
 -------------------------------------------------------------------
 -- generator takta
